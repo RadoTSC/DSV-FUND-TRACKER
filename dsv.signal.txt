@@ -1,0 +1,10 @@
+# Example subnet investment in the signal file
+
+
+{
+  "subnet_number": 75,
+  "amount_usd": 100000,
+  "date": "2025-10-17",
+  "timestamp": "2025-10-17T14:32:15.123456"
+}
+

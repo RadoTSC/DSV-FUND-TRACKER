@@ -1,0 +1,160 @@
+[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 62,
+    "subnet_name": "Ridges",
+    "amount_usd": 972000,
+    "date": "2025-09-01",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Ridges total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 11,
+    "subnet_name": "Dippy Studio",
+    "amount_usd": 200000,
+    "date": "2025-08-04",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Dippy Studio total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 50,
+    "subnet_name": "Synth",
+    "amount_usd": 150000,
+    "date": "2025-09-15",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Synth total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 44,
+    "subnet_name": "Score",
+    "amount_usd": 100000,
+    "date": "2025-05-23",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Score total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 33,
+    "subnet_name": "ReadyAI",
+    "amount_usd": 100000,
+    "date": "2025-06-03",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "ReadyAI total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 1,
+    "subnet_name": "Apex",
+    "amount_usd": 100000,
+    "date": "2025-06-16",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Apex total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 13,
+    "subnet_name": "Data Universe",
+    "amount_usd": 100000,
+    "date": "2025-06-17",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Data Universe total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 25,
+    "subnet_name": "Mainframe",
+    "amount_usd": 100000,
+    "date": "2025-06-18",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Mainframe total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 34,
+    "subnet_name": "BitMind",
+    "amount_usd": 100000,
+    "date": "2025-07-21",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "BitMind total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 18,
+    "subnet_name": "Zeus",
+    "amount_usd": 100000,
+    "date": "2025-09-09",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Zeus total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 75,
+    "subnet_name": "Hippius",
+    "amount_usd": 100000,
+    "date": "2025-09-18",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Hippius total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 93,
+    "subnet_name": "Bitcast",
+    "amount_usd": 100000,
+    "date": "2025-08-26",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Bitcast total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 2,
+    "subnet_name": "Omron",
+    "amount_usd": 50000,
+    "date": "2025-06-05",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Omron total"
+  },
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "subnet_number": 36,
+    "subnet_name": "Autoppia",
+    "amount_usd": 50000,
+    "date": "2025-07-07",
+    "source": "starter",
+    "raw_text": "Initial portfolio entry",
+    "notes": "Autoppia total"
+  },
+  {
+    "timestamp": "2025-10-15T00:00:00",
+    "subnet_number": 46,
+    "subnet_name": "RESI",
+    "amount_usd": 100000,
+    "date": "2025-10-15",
+    "source": "manual",
+    "raw_text": "Manual entry - $100k OTC to RESI announced Oct 15"
+  },
+  {
+    "timestamp": "2025-10-17T15:08:32.655752",
+    "subnet_number": 41,
+    "subnet_name": "Sportstensor",
+    "amount_usd": 200000,
+    "date": "2025-10-17",
+    "source": "X",
+    "raw_text": "We\u2019ve completed a $200,000 OTC investment into Sportstensor (Subnet 41) \u2013 founded by Leo Lucian (@lcnxyz).\n\nOn their recent Revenue Search @siamkidd and @markcreaser dug into how @sportstensor are bridging AI and DeFi through prediction markets on Bittensor.\n\nSportstensor\u2019s platform, Almanac, routes"
+  }
+]
